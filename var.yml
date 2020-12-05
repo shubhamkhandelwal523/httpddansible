@@ -1,0 +1,4 @@
+ip: 192.168.43.242
+dvd_dir: "/dvd1"
+doc_root: "/var/www/html"
+http_port: 5490
